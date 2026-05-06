@@ -2,9 +2,12 @@ instance.cfg
 mmc-pack.json
 
 minecraft/config/*
+!minecraft/config/chloride-client.json
+!minecraft/config/embeddium-options.json
 
 minecraft/saves/
 minecraft/logs/
 minecraft/icon.png
 minecraft/usercache.json
 minecraft/usernamecache.json
+minecraft/mods/.index/
