@@ -1,6 +1,7 @@
 instance.cfg
 mmc-pack.json
 
+minecraft/.mixin.out/
 minecraft/config/*
 !minecraft/config/chloride-client.json
 !minecraft/config/embeddium-options.json
@@ -11,3 +12,6 @@ minecraft/icon.png
 minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/mods/.index/
+minecraft/shaderpacks/*
+!minecraft/shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6 + Supplemental Patches.txt
+!minecraft/shaderpacks/ComplementaryReimagined_r5.7.1.zip
