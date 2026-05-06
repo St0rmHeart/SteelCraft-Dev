@@ -1,0 +1,10 @@
+instance.cfg
+mmc-pack.json
+
+minecraft/config/*
+
+minecraft/saves/
+minecraft/logs/
+minecraft/icon.png
+minecraft/usercache.json
+minecraft/usernamecache.json
