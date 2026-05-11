@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","generated/fragmentum_layer","supplemental_patches:builtin_shaders","obscure_tooltips/packs/vibrant_tooltips","file/Maestro-Overture.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","generated/fragmentum_layer","supplemental_patches:builtin_shaders","obscure_tooltips/packs/vibrant_tooltips","file/Maestro-Overture.zip","file/SteelCraft-Main","file/SteelCraft-Gui","file/SteelCraft-Lang"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
