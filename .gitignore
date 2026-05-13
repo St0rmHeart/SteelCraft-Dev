@@ -6,6 +6,10 @@ minecraft/config/*
 !minecraft/config/chloride-client.json
 !minecraft/config/embeddium-options.json
 !minecraft/config/inventoryhud-client.toml
+!minecraft/config/blockswap
+!minecraft/config/biome_replacer.properties
+!minecraft/config/item_obliterator.json5
+!minecraft/config/easy_mob_spawn_control-common.toml
 
 minecraft/saves/
 minecraft/logs/
@@ -18,3 +22,5 @@ minecraft/shaderpacks/*
 !minecraft/shaderpacks/ComplementaryReimagined_r5.7.1.zip
 minecraft/data/
 minecraft/resourcepacks/.index/
+minecraft/rhino.local.properties
+minecraft/local/
