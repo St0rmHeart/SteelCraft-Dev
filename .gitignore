@@ -10,6 +10,16 @@ minecraft/config/*
 !minecraft/config/biome_replacer.properties
 !minecraft/config/item_obliterator.json5
 !minecraft/config/easy_mob_spawn_control-common.toml
+!minecraft/config/amendments-client.toml
+!minecraft/config/amendments-common.toml
+!minecraft/config/create-client.toml
+!minecraft/config/create-common.toml
+!minecraft/config/enigmaticlegacy-client.omniconf
+!minecraft/config/enigmaticlegacy-common.omniconf
+!minecraft/config/quark-common.toml
+!minecraft/config/supplementaries-client.toml
+!minecraft/config/supplementaries-common.toml
+!minecraft/config/suppsquared-common.toml
 
 minecraft/saves/
 minecraft/logs/
@@ -24,3 +34,6 @@ minecraft/data/
 minecraft/resourcepacks/.index/
 minecraft/rhino.local.properties
 minecraft/local/
+minecraft/config/blockswap/known_states/
+minecraft/patchouli_data.json
+minecraft/.qmenu_opened.marker

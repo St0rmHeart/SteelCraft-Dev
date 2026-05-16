@@ -35,7 +35,7 @@
   "darknessFullMoonBright": 0.25,
   "hideJREMI": false,
   "hideJREMIHint": false,
-  "fontShadows": false,
+  "fontShadows": true,
   "leavesCulling": "ALL",
   "fastChests": false,
   "fastBeds": false,
