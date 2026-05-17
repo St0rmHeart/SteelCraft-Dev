@@ -20,6 +20,7 @@ minecraft/config/*
 !minecraft/config/supplementaries-client.toml
 !minecraft/config/supplementaries-common.toml
 !minecraft/config/suppsquared-common.toml
+!minecraft/config/paxi
 
 minecraft/saves/
 minecraft/logs/
@@ -37,3 +38,6 @@ minecraft/local/
 minecraft/config/blockswap/known_states/
 minecraft/patchouli_data.json
 minecraft/.qmenu_opened.marker
+minecraft/defaultconfigs/
+
+minecraft/enigmatic_persistence.dat
